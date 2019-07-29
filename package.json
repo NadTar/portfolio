@@ -16,7 +16,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage" : "https://NadTar.github.io/portfolio/",
+  "homepage" : "https://nadtar.github.io/portfolio/",
   "eslintConfig": {
     "extends": "react-app"
   },

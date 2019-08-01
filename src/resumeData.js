@@ -1,8 +1,8 @@
 let resumeData = {
-  name: "Jane Doe",
+  name: "Nadir Tareen",
   role: "Frontend Web Developer",
-  linkedinId:"evanfeenstra",
-  skypeid: "Your skypeid",
+  linkedinId:"nadirkt",
+  skypeid: "nadirkt",
   roleDescription: "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or play music in my free time.",
   socialLinks:[
       {
@@ -26,7 +26,7 @@ let resumeData = {
   education:[
     {
       UniversityName:"University of Washington",
-      specialization:"Some specialization",
+      specialization:"BS in Human Centered Design and Engineering",
       MonthOfPassing:"June",
       YearOfPassing:"2019",
       Achievements:"Some Achievements"

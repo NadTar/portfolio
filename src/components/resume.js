@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import resumeData from '../resumeData';
+import pdf from'../resume.pdf';
 
 export default  class Resume extends Component {
   render() {
@@ -69,22 +70,20 @@ export default  class Resume extends Component {
 
             <div className="nine columns main-col">
 
-               <p>
-               {resumeData.skillsDescription}
-               </p>
+               
 
-   				<div className="bars">
+   				<div>
 
-   				   <ul className="skills">
+   				   <ul className="skill">
                 {
                   resumeData.skills && resumeData.skills.map((item,i) => {
                     return(
                       <li key={i}>
-                        <span
+                        {/*<span
                           className={`bar-expand ${item.skillname.toLowerCase()}`}
                           style={{width:`${item.level}%`}}
-                        >
-                        </span><em>{item.skillname}</em>
+                        >*/}
+                        <span className="skill">{item.skillname}</span>
                       </li>
                     )
                   })
@@ -97,6 +96,7 @@ export default  class Resume extends Component {
    			</div>
 
          </div>
+         <button className="resumebutton" onClick={()=> window.open(pdf, '_blank')}>Download Full Resume</button>
 
       </section>
     );

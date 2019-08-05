@@ -3,3 +3,21 @@ header {
   background-size: contain !important;
 	-webkit-background-size: contain !important;
 }
+
+.skill {
+  font-size: 20px;
+  font-weight: 400;
+  list-style: square;
+  color: rgb(49, 49, 49);
+}
+
+.resumebutton {
+  margin: auto;
+  display: block;
+}
+
+.links {
+  display: flex;
+  position: absolute;
+  bottom: 0;
+}

@@ -90,7 +90,7 @@ let resumeData = {
       level: 0,
     },
     {
-      skillname:"Figma, Marvel for UI Design and Prototyping",
+      skillname:"Figma & Marvel for UI Design, Prototyping and Wireframing",
       level: 0,
     },
     {

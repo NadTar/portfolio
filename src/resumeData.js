@@ -34,6 +34,13 @@ let resumeData = {
   ],
   work:[
     {
+      CompanyName:"Department of Human Centered Design and Engineering, University of Washington",
+      specialization:"Course Assistant",
+      MonthOfLeaving:"Sep - Present",
+      YearOfLeaving:"2019",
+      Achievements:"Currently employed as a course assistant for the introductory design course (210) in the HCDE department. Under the guidance of the course instructors,  I grade the assignments and give qualitative feedback on design principles, ethics and responsible design to a section of 25 students."
+    },
+    {
       CompanyName:"Department of Management & Organization at Foster School of Business, University of Washington",
       specialization:"Undergraduate Research Assistant",
       MonthOfLeaving:"Feb - Sep",
@@ -99,6 +106,15 @@ let resumeData = {
     }
   ],
   portfolioweb:[
+    {
+      name:"Vita",
+      description:"Life Calendar",
+      imgurl:"images/vita.jpg",
+      title:"Vita",
+      githubLink:"https://github.com/NadTar/vita",
+      webLink:"https://nadtar.github.io/vita/",
+      fullDescription:"Vita is a life calendar concept that I built as a final project for a web development class.  It is meant to serve as a tool for reflecting over one's lifetime and putting one's time into perspective. I drafted the intitial design in figma. I used evergreen UI componenets to create a simple interface for inputting one's birthdate. I designed the calendar using modular react components that I built from scratch. Each heptagon represents a week of time. Within each heptagon are triangles that represent one day. The degree of red fill for each triangle represents how much time has passed."
+    },
     {
       name:"Bolo",
       description:"Web Chat App",

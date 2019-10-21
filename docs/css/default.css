@@ -802,6 +802,10 @@ properly.
 	text-align: center !important;
 }
 
+.portfolio-modal p {
+   font-size: 11px;
+}
+
 
 
 

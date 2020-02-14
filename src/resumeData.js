@@ -151,6 +151,14 @@ let resumeData = {
       title:"Sentinel",
       webLink:"https://nadirkt.wixsite.com/website",
       fullDescription:"A UX portfolio that was created for a smart bike lock and app that I developed alongside three other students for User-Centered Design class. The portfolio details the user centered process we employed in building the Sentinel Smart Bike Lock."
+    },
+    {
+      name:"PoolBuddy",
+      description:"A presentation on the current progress of our progress on PoolBuddy, a community centered carpool app.",
+      imgurl:"images/poolbuddy.jpg",
+      title:"PoolBuddy",
+      webLink:"https://drive.google.com/file/d/1jyu-OGvTB7p3_q4ia9eW1dpDoY2ILUb2/view?usp=sharing",
+      fullDescription:"This presentation details our progress on PoolBuddy, an app designed to facilitate carpools within a community. We go over the research methodologies we used to inform our design direction, including semi-structured interviews and online survey. We then explain our reasoning behind 3 divergent concepts we considered as well as our chosen design focus. We end with storyboards of two key tasks supported by our concept."
     }
   ],
 

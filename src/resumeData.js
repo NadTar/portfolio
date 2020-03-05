@@ -155,21 +155,29 @@ let resumeData = {
     {
       name:"PoolBuddy",
       description:"A presentation on the current progress of our progress on PoolBuddy, a community centered carpool app.",
-      imgurl:"images/poolbuddy.jpg",
+      imgurl:"images/poolbuddy.JPG",
       title:"PoolBuddy",
-      webLink:"https://drive.google.com/file/d/1jyu-OGvTB7p3_q4ia9eW1dpDoY2ILUb2/view?usp=sharing",
-      fullDescription:"This presentation details our progress on PoolBuddy, an app designed to facilitate carpools within a community. We go over the research methodologies we used to inform our design direction, including semi-structured interviews and online survey. We then explain our reasoning behind 3 divergent concepts we considered as well as our chosen design focus. We end with storyboards of two key tasks supported by our concept."
+      webLink:"https://courses.cs.washington.edu/courses/cse440/20wi/projects",
+      fullDescription:"This page links to our class project page. Please see the Poolbuddy page which details our progress on PoolBuddy, an app designed to facilitate carpools within a community. We are currently working on finishing this project, however, you can see your design research where we go over the research methodologies we used to inform our design direction, including semi-structured interviews and online survey. We then explain our reasoning behind 3 divergent concepts we considered as well as our chosen design focus. We end with storyboards of two key tasks supported by our concept."
     }
   ],
 
   portfoliowriting:[
     {
-      name:"Social Media Data Representations",
-      description:"A story hypothesizing the benefit of social media data reprsentations I created",
-      imgurl:"images/rep.jpg",
-      title:"Social Media Data Representations",
-      webLink:"https://drive.google.com/file/d/1fQAzUHER8RGV0wXXoTa-ax-J8ozr0Ozf/view?usp=sharing",
-      fullDescription:"I was part of a directed research group tasked with brainstorming ways to promote reflection on social media. Using my own data I created two representations, one was a network graph of my friends (shown above) and another was a hypothesized representation of my own filter bubble. This is a story detailing a users engagement with these represenations."
+      name:"Seattle Public Library Research Interview Report",
+      description:"As part of a UX research class, I conducted three semi-structured interviews with young adult users of the Seattle Public Library. This is the report of my findings",
+      imgurl:"images/interview.jpg",
+      title:"Seattle Public Library Interview Report",
+      webLink:"https://docs.google.com/document/d/1WiiQ957BrZCXlhmxnvPIDmrgDspjJ1PaYan5KvoSCYA/edit?usp=sharing",
+      fullDescription:"As part of a UX research class, I conducted three semi-structured interviews with young adult users of the Seattle Public Library. I chose the semi-structured approach as it gave me flexibility in the interview process to ask follow up questions. I approached the interviews as informal conversations structured around a set of questions I wanted to explore. I drafted these questions in class and received feedback from peers. The report details my method and findings, including references to my interview transcripts."
+    },
+    {
+      name:"Seattle Public Library Research Field Study Report",
+      description:"As part of a UX research class, I conducted an independent field study of the Seattle Public Library. This is the report of my findings",
+      imgurl:"images/fieldreport.jpg",
+      title:"Seattle Public Library Field Study Report",
+      webLink:"https://docs.google.com/document/d/1WiiQ957BrZCXlhmxnvPIDmrgDspjJ1PaYan5KvoSCYA/edit?usp=sharing",
+      fullDescription:"As part of a UX research class, I conducted an independent field study of the Seattle Public Library. My overall research question was 'How can we improve the amenities at the Seattle Public Library to better serve young adults?'. The specific method I used was 'deep hanging out'. This meant that instead of making pure observations, I had defined particular focal points that I would observe in regards to library users and their interactions. These included the built environment, media consumption, possesions carried, general demographic of users and where they went for assistance. I also made sure to keep a distance from the users I was observing in order to avoid making them uncomfortable. My observations also focused only interactions and visible behavior without involving any identifying characteristics or personal details."
     },
     {
       name:"Troll Posts Survey",
@@ -177,7 +185,7 @@ let resumeData = {
       imgurl:"images/troll.jpg",
       title:"Troll Posts Survey",
       webLink:"https://docs.google.com/document/d/11z4I88abw4s4RfUT9CDjUqm4IWbznN-CuuhvMdbs-w4/edit",
-      fullDescription:"Created for the same research group, the linked document is a survey is one I came up with to study how people interact with and react to to troll posts on social media whilst educating the user about how these posts cause disinformation. I thought the best way to do this would be to have the user interact with the posts as if they were on their own social media feed."
+      fullDescription:"I was part of a directed research group tasked with brainstorming ways to promote reflection on social media. The linked document is a survey I came up with to study how people interact with and react to to troll posts on social media whilst educating the them about how these posts cause disinformation. I thought the best way to do this would be to have the user interact with the posts as if they were on their own social media feed and then unpack how the posts made them feel through a reflection."
     },
     {
       name:"Unpacking Music Notation",

@@ -154,11 +154,19 @@ let resumeData = {
     },
     {
       name:"PoolBuddy",
-      description:"A presentation on the current progress of our progress on PoolBuddy, a community centered carpool app.",
-      imgurl:"images/poolbuddy.JPG",
+      description:"A portfolio for Poolbuddy, an app I co-designed which facilitates carpools within a community.",
+      imgurl:"images/poster.png",
       title:"PoolBuddy",
-      webLink:"https://courses.cs.washington.edu/courses/cse440/20wi/projects",
-      fullDescription:"This page links to our class project page. Please see the Poolbuddy page which details our progress on PoolBuddy, an app designed to facilitate carpools within a community. We are currently working on finishing this project, however, you can see your design research where we go over the research methodologies we used to inform our design direction, including semi-structured interviews and online survey. We then explain our reasoning behind 3 divergent concepts we considered as well as our chosen design focus. We end with storyboards of two key tasks supported by our concept."
+      webLink:"https://courses.cs.washington.edu/courses/cse440/20wi/projects/poolbuddy/",
+      fullDescription:"PoolBuddy, is an app I co-designed which facilitates carpools within a community. Pictured above is our concept poster which synthesizes the key aspects of our design and process. Click the link to be directed to our project page which details our research and design methodology."
+    },
+    {
+      name:"Real Change Brand Book",
+      description:"A brand book featuring a brand redesign I did of Real Change, Seattle's award winning weekly street newspaper.",
+      imgurl:"images/realchange.png",
+      title:"Real Change Brand Book",
+      webLink:"https://drive.google.com/file/d/1S4oUsZ2CMuXoX-2aVCmJBs15A_YqzxUN/view?usp=sharing",
+      fullDescription:"As part of an HCDE class in visual communication, I created this brand book to redesign the mobile web experience for my client, Real Change. The visual elements I focused on included their logo, icons, typographic choices and mobile layout. My goal was to create a cohesive visual system that would strongly convey their brand values of impact, diversity and community while better reflecting their identity as a newspaper. The link below will take you to the full document that details my design choices and rationale."
     }
   ],
 
